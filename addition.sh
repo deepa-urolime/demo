@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "Enter two numbers"
-read num1 num2
-sum = 'expr $num1 + $num2'
-echo "The sum is = $sum"
+echo "Hello my name is $name and I am from $place"
+
